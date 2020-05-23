@@ -34,4 +34,12 @@ public class MyStack {
 	public String peek() {
 		return stack.peek();
 	}
+
+	/**
+	 * returns true if empty and false otherwise
+	 * @return true if empty and false otherwise
+	 */
+	public boolean isEmpty() {
+		return stack.isEmpty();
+	}
 }

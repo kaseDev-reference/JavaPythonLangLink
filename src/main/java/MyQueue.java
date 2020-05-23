@@ -34,4 +34,12 @@ public class MyQueue {
 	public String peek() {
 		return queue.peek();
 	}
+
+	/**
+	 * returns true if empty and false otherwise
+	 * @return true if empty and false otherwise
+	 */
+	public boolean isEmpty() {
+		return queue.isEmpty();
+	}
 }
