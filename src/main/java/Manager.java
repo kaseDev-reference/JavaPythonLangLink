@@ -1,7 +1,9 @@
 public class Manager {
 
 
-	/** empty constructor */
+	/**
+	 * empty constructor
+	 */
 	public Manager() { }
 
 	/**
